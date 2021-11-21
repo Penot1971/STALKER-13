@@ -314,7 +314,7 @@
 	flags_cover = MASKCOVERSEYES | MASKCOVERSMOUTH
 	flags_inv = HIDEEARS
 	dynamic_hair_suffix = ""
-	armor = list("melee" = 15, "bullet" = 15, "laser" = 0, "energy" = 20, "bomb" = 15, "bio" = 20, "rad" = 0, "fire" = 0, "acid" = 0, "psy" = 1)
+	armor = list("melee" = 0, "bullet" = 45, "laser" = 0, "energy" = 20, "bomb" = 10, "bio" = 20, "rad" = 0, "fire" = 0, "acid" = 0, "psy" = 1)
 	resistance_flags = UNACIDABLE
 	durability = 300
 	modifications = list("padding_head" = 0, "material_head" = 0, "visor_head" = 0)
